@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-30T13:57:42 EDT" name="OrangeHRM" finished-at="2022-03-30T13:58:54 EDT" duration-ms="71459">
+    <groups>
+    </groups>
+    <test started-at="2022-03-30T13:57:42 EDT" name="TestNG" finished-at="2022-03-30T13:58:54 EDT" duration-ms="71459">
+      <class name="testLayer.LoginTest">
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:57:42 EDT" name="initialsetup" finished-at="2022-03-30T13:58:03 EDT" duration-ms="20361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="Title()[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:03 EDT" name="Title" finished-at="2022-03-30T13:58:03 EDT" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:03 EDT" name="close" finished-at="2022-03-30T13:58:08 EDT" duration-ms="5512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:21 EDT" name="initialsetup" finished-at="2022-03-30T13:58:29 EDT" duration-ms="8050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:29 EDT" name="login" data-provider="details" finished-at="2022-03-30T13:58:33 EDT" duration-ms="3354" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:33 EDT" name="close" finished-at="2022-03-30T13:58:33 EDT" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:33 EDT" name="initialsetup" finished-at="2022-03-30T13:58:40 EDT" duration-ms="7001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:40 EDT" name="login" data-provider="details" finished-at="2022-03-30T13:58:43 EDT" duration-ms="3269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:43 EDT" name="close" finished-at="2022-03-30T13:58:44 EDT" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:44 EDT" name="initialsetup" finished-at="2022-03-30T13:58:50 EDT" duration-ms="6472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:50 EDT" name="login" data-provider="details" finished-at="2022-03-30T13:58:53 EDT" duration-ms="3294" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@76508ed1]" started-at="2022-03-30T13:58:53 EDT" name="close" finished-at="2022-03-30T13:58:54 EDT" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.LoginTest -->
+    </test> <!-- TestNG -->
+  </suite> <!-- OrangeHRM -->
+</testng-results>
